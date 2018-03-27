@@ -1,6 +1,6 @@
 # A feed forward neuronal network implementation in python (without the use of external libraries) for learning purposes
 
--> insert ff image
+![Feed forward neuronal network display](ff.png)
 
 The feed_forward python file implements a neuronal network (FF class). You can set up the number of inputs and the number of neurons in the hidden layer. You can load a dataset (and targets) into the network and then train the network. Finally, you can draw the network and watch the current accuracy.
 
