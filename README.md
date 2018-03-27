@@ -29,11 +29,11 @@ ff.train(epochs=100, learning_rate=0.1)
 *learning_rate* is the learning rate used during training.
 
 ## Draw the network
-Display the feed forward network, its accuracy and the weights and biases of all neurons. It also display the number of epochs, the learning rate and the number of rows (dataset size) used during the training. It allows to show directly the impact of theses parameters to the accuracy.
-
-It uses the [Viznet](https://github.com/GiggleLiu/viznet) library.
 ```python
 ff.draw()
 ```
+Display the feed forward network, its accuracy and the weights and biases of all neurons. It also display the number of epochs, the learning rate and the number of rows (dataset size) used during the training. It allows to show directly the impact of theses parameters to the accuracy.
+
+It uses the [Viznet](https://github.com/GiggleLiu/viznet) library.
 
 Have a look at the examples shown in the examples file !
