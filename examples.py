@@ -110,5 +110,5 @@ def example3():
 
 
 if __name__ == '__main__':
-    """Launch example3."""
+    """Launch example2."""
     example2()
